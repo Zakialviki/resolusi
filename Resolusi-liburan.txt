@@ -1,7 +1,9 @@
 -Mau kesabang
 *sambil berobat
-  ^mata
+  ^kehamilan
+  ^kesehatan jantung
 *sambil diving
-  ^tangkap ikan
+  ^jaga pernafasan
 -mau ke medan
+-mau ke jakarta
 
